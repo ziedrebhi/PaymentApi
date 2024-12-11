@@ -1,0 +1,6 @@
+@PaymentApi.Server.BasicAuth_HostAddress = http://localhost:5139
+
+GET {{PaymentApi.Server.BasicAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

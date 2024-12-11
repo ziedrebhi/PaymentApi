@@ -1,0 +1,6 @@
+@PaymentApi.Server.JWTAuth_HostAddress = http://localhost:5261
+
+GET {{PaymentApi.Server.JWTAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
