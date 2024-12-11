@@ -1,9 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageId>PaymentApi.Client</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Zied REBHI</Authors>
+		<Company>Zied REBHI</Company>
+		<Description>API client for payment processing with different authorization mechanisms</Description>
+		<PackageTags>Api client, payment, authorization, api key, jwt</PackageTags>
+		<PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/ziedrebhi/PaymentApi</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ziedrebhi/PaymentApi</RepositoryUrl>
+	</PropertyGroup>
 
 </Project>
