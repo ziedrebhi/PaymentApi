@@ -104,3 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### **Contributions**
 
 Feel free to fork this repository, open issues, or submit pull requests for enhancements, bug fixes, or improvements. Please make sure to follow best practices and write tests for new features.
+Full Article https://dev.to/zrebhi/securing-a-net-api-c-api-key-basic-authentication-and-jwt-32e7
